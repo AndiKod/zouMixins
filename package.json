@@ -1,0 +1,12 @@
+{
+  "name": "zoumixins",
+  "version": "1.0.0",
+  "description": "SCSS mixins collections to be used in other projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrei Curelaru - AndiKod",
+  "license": "ISC"
+}
